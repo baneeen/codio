@@ -15,4 +15,4 @@ jobs:
     steps:
       - name: Output a message
         run: echo "Action Complete!"
-[![Action Practice](https://github.com/baneeen/codio/actions/workflows/actionPractice.yml/badge.svg)](https://github.com/baneeen/codio/actions/workflows/actionPractice.yml)
+
