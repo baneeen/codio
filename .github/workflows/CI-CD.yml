@@ -16,4 +16,4 @@ jobs:
       with: 
         name: assets
         path: dist
-[![CI-CD](https://github.com/baneeen/codio/actions/workflows/CI-CD.yml/badge.svg)](https://github.com/baneeen/codio/actions/workflows/CI-CD.yml)
+
